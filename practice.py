@@ -18,7 +18,7 @@
 # git revert HEAD : undo last commit, create a new commit
 # git push origin branch_name
 
-#Merges
+#Merge Commands
 # git checkout main
 # git pull origin main
 # git merge branch
