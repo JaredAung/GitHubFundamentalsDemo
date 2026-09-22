@@ -21,6 +21,6 @@
 #Merge Commands
 # git checkout main
 # git pull origin main
-# git merge branch
-
+# git merge branch_name1
+# new command
 
